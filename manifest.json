@@ -1,8 +1,8 @@
 {
-	"name": "indian-newspaper",
-	"version":"0.0.1",
+	"name": "Indian Newspapers",
+	"version":"0.0.2",
 	"manifest_version":2,
-	"description":"Indian Newspaper",
+	"description":"Your one stop place for all the major Indian Newspapers.",
 	"icons":{
 		"16":"images/icon-16.png",
 		"128":"images/icon-128.png"
@@ -13,7 +13,7 @@
 			"19":"images/icon-19.png",
 			"38":"images/icon-38.png"
 		},
-		"default_title":"Indian Newspaper",
+		"default_title":"Indian Newspapers",
 		"default_popup":"popup.html"
 	}
 }
