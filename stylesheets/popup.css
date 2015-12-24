@@ -1,0 +1,49 @@
+html, body{
+	height: 100px;
+    width: 300px;
+    padding: 0;
+    margin: 0px;
+}
+
+h1{
+	color: #D20000;
+    padding: 5px 5px 5px 35px;
+    margin: 0px;
+    background: url(../images/icon-19.png) no-repeat 10px center;
+}
+section{
+	    padding: 0px;
+    margin: 0px;
+}
+
+hr{
+	padding: 0;
+    margin: 0;
+}
+
+
+ul{
+	padding: 0px 10px 0px 0px;
+    list-style: none;
+
+}
+
+li{
+	
+    margin: 0 0 0 10px;
+    
+    border-bottom: 1px solid #fff;
+}
+li a{
+	text-decoration: none;
+	background: #F3F3F3;
+    color: #D20000;
+    display: block;
+    padding: 5px 10px 5px 10px;
+    transition : all .5s;
+}
+li a:hover{
+	background: #D20000;
+	color: #F3F3F3;
+	transition : all .5s;
+}
